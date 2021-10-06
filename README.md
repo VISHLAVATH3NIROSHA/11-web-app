@@ -1,15 +1,15 @@
 # _{ My web Application}_
 
-#### By _**{VISHLAVATH NIROSHA}**_
+#### By _**VISHLAVATH NIROSHA**_
 
-#### _{Brief description of application}_
+#### _This Project Is On An Ecommerce Application_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _CSS_
+* _JS_
+* _REACT_
 
 ## Description
 
